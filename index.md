@@ -19,3 +19,5 @@ Eric Marlon Bishop (born December 13, 1967), better known by his stage name Jami
 > Django Unchained is supposed to make you angry!
 > Every single thing in my life is built around race.
 
+## Image of Jamie Foxx (recorded in 2005)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Jamie_Foxx_face.jpg"/>
