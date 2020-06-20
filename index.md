@@ -13,3 +13,9 @@ Eric Marlon Bishop (born December 13, 1967), better known by his stage name Jami
 * Foxx began playing the piano when he was five years old
 * Has a natural talent for telling jokes
 * In Terrell High School he received top grades and played basketball and football 
+
+
+## Favorite quote
+> Django Unchained is supposed to make you angry!
+> Every single thing in my life is built around race.
+
